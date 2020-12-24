@@ -1,0 +1,7 @@
+{
+  "name": "inppp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
